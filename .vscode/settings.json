@@ -1,0 +1,18 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "xstring": "cpp",
+        "stack": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "unordered_map": "cpp",
+        "xhash": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
+    }
+}
